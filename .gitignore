@@ -13,3 +13,6 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# exclude folders ending with suffix _ex
+*_ex/
